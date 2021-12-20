@@ -15,3 +15,11 @@ Framework : Codeigniter 4
 
 또는 php 설치되어있다면,
 php spark serve 를 통해 localhost:8080 으로 접근
+
+
+
+#수정한 파일
+
+app/controller 내의 v2 폴더 내 파일 [Cylinder.php / Health.php / Sigungu.php]
+app/config 내의 파일 [routes.php / database.php]
+app/models 내의 파일 [City.php / Info.php]
